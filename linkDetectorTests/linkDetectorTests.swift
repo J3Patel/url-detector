@@ -2,9 +2,7 @@
 //  linkDetectorTests.swift
 //  linkDetectorTests
 //
-//  Created by RajaSoftwareLabs on 24/09/15.
-//  Copyright (c) 2015 Raja Software Labs. All rights reserved.
-//
+
 
 import UIKit
 import XCTest
